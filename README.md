@@ -4,6 +4,6 @@
 
 ### Ce github est organisé selon l'arborescence suivante 
 
-* dev : Fichier de code du moteur de jeu
+* dev : Fichiers de code de godot
     * : blabla
-* music : Musiques du jeu
+* Musiques : Musiques du jeu
