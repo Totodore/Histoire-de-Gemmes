@@ -1,6 +1,6 @@
-# Histoire-de-Gemmes
+# Histoire de gemmes
 
-## Video Game in development
+## Jeu en développement
 
 ### Ce github est organisé selon l'arborescence suivante 
 
