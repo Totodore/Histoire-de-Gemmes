@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="3">
+            <Title>Notes</Title>
+            <Text>Savant au lieu de “mage”. Monsieur Hérédote
+
+Maison perdue sur une montagne, avec un petit potager, très jolie.
+
+Ville que l’on a déjà visitée qui se retrouve décimée par un monstre (on y connaissait des personnages). Il n’y a pas de cinématiques, pour laisser le joueur seul face au massacre. (plus de musique?, ou alors toujours la musique joyeuse de la ville+un truc malsain)
+
+Vendeur d’objets venus d’ailleurs, au-delà de la forêt qui borde tout le Nord des deux Etats. Il cultive sa part d’étrange, de mystérieux, lui qui semble avoir vu plus que tous les autres hommes du pays.
+
+La chance que tu as, tu aurais dû rester dans ton village, à soigner des rhums et des blessures de travail, et te voilà à explorer le monde.
+
+
+Je vois, vous singez le mal afin de tuer impunément. Alors je partirai du principe que vous en êtes, et vous livrerai au sort que subissent les infectés. (dit par l’utopiste?)
+
+-j’en sais déjà trop pour m’arrêter ici, et faire comme si je n’avais rien vu.
+- Et qu’as-tu vu ma fille?
+- J’ai vu des villes se perdre.
+- Prends l’antidote, tu en auras besoin au cours de tes pérégrinations.
+- Mais je comptais bien le garder.
+
+
+Voilà, je me retrouve paumée au milieu d’un royaume que je ne connais pas, au milieu d’une guerre qui ne m’intéresse pas non plus, avec d’un “antidote” que je n’ai jamais vu fonctionner, donc la prochaine fois que je me retrouve devant un infecté, soit je fuis, soit j’essaie de le soigner.
+
+
+
+AH AH AH AH AH AH! LE MAL PÉNÈTRE CE MONDE, CE MONDE PUTRIDE, POURRI JUSQU’AUX VERTÈBRES!  (musique à la Kaiki’s theme)
+Cette épidémie n’est pas une malédiction, un mal; c’est une aubaine.
+</Text>
+        </Document>
+        <Document ID="4">
+            <Title>Personnages</Title>
+        </Document>
+        <Document ID="5">
+            <Title>Quête principale</Title>
+        </Document>
+        <Document ID="6">
+            <Title>Prologue</Title>
+            <Text>	Clervie est à l'étage de la maison de ses parents dans la chambre de son frère et d'elle-même. Son père rentre de voyage marchand sur sa carriole. Il a un assistant avec lui, un type du village aussi. Le petit frère regarde à la fenêtre, et les voit arriver.
+« Papa est rentré ! Papa est rentré grande sœur !
+Le petit frère sort en courant. Il faut alors sortir de la maison pour déclencher la cinématique en extérieur.
+-Bon alors, qu’est-ce que tu nous amène cette fois-ci ? Demande un type du village
+- Des courbatures et un violent mal de crâne. Mais t’en fait pas j’ai bien vendu tout ce que vous m’aviez donné, même tes horribles statuettes.
+- Elles sont magnifiques mes statuettes, j'vois pas pourquoi tu les détestes tant, alors qu'elles se vendent bien. Elles ont un public.
+- Je leur trouve qu'elles sont moches. Voilà. »
+
+Le père de Clervie part se coucher à la suite de son retour. On ne s'en inquiète pas plus que ça au départ, et ce moment sert quelque peu de tutoriel au joueur. Clervie déambule dans le village, un peu autour, avec l'interdiction d'aller trop loin. On vous demande d'aller chercher tel ou tel objet (ex : aller chercher des plantes pour le remède à fabriquer pour son père, puis un autre remède une fois que le premier n'a pas fonctionné).
+
+Village : famille de Clervie : Clervie, papa, maman, petit frère ; autre famille : papa (forgeron), maman, 2filles ; le type qui fabrique des statuettes, la guérisseuse, 
+
+Dialogues existants avec les habitants à ce moment-ci de l'histoire, avant d'avoir donné le premier remède (1/3) :
+Maman « Ton père ne se sent pas très bien depuis son retour. Ce serait gentil si tu lui concoctais quelque chose contre son mal de crâne. La guérisseuse doit connaître des remèdes. »
+
+Forgeron « une forge n'a besoin que de deux choses : d'un homme et d'un peu de ferraille. Le reste c'est de l'optionnel. »
+On sait pas trop ce qu'il se passe dehors, il n'y a que ton père pour descendre la montagne. Ça
+
+On ne s’inquiète pas trop du père, jusqu’au moment où apparaissent sur son corps des touffes de poils. Clervie met au jus la vieille apothicaire du village, qui dit “oh, c’est bien pire que ce qu’il me semblait. Ça pourrait même être tout à fait catastrophique. Oh non. Je ne veux pas vivre ça. Je veux pas!!! Clervie, nous ne pouvons y faire quoique ce soit. C’est trop gros pour nous, nous n’en avons absolument pas les capacités… La meilleure chose à faire, il me semble, c’est de l’isoler, voir comment il évolue.
+-Comment ça, je ne comprends pas grand-mère, il va mourir à cause de la fatigue ou quoi? Et pourquoi, s’il meurt, l’esseuler? 
+-Sa maladie Clervie, s’il s’agit bien de ce à quoi je pense, est mortelle, incurable et contagieuse. 
+
+Je suis vieille, et j’ai de quoi m’offrir une mort sans souffrance dans ma boutique. Toi, tu es jeune Clervie, belle, tu pourras sans doute te trouver un beau garçon, loin d’ici, dans un bel endroit radieux. Alors enfuis-toi.
+-Mais je serai la plus horrible des filles si je quitte mon père maintenant, et ma mère et mon frère, qui, si tu as raison, auront besoin de moi.
+-Qu’il le veuille ou non, la plus horrible personne, d’ici quelques jours, ce sera ton père, qu’il le veuille ou non. Alors enfuis-toi, c’est ta grand-mère qui te le demande.
+
+Si tu ne pars pas cette semaine, je ne t’adresserai plus jamais la parole, et ferai croire au village entier que c’est toi qui m’a tuée.
+
+-Mamie, et cette saloperie, elle a un nom?
+- Le Mal… On la nommait le Mal.
+-Bien, je pars voir monsieur Hérédote, là-haut. J’ai compris, à ce que tu as raconté, que cette maladie avait à voir avec le passé. Il en saura sans doute.
+
+ELOIGNE TOI!!!! ELOIGNE TOI!!!!
+
+
+Que dois-je faire? Grand-mère a toujours été si bonne avec moi, et son visage s’est métamorphosé si rapidement. Je ne peux pas me permettre de laisser ma famille dans cette situation. D’un autre côté, désobéir à grand-mère a toujours été la chose la plus sotte que je pus faire.
+Je sais, je file en vitesse chez sieur Hérédote lui demander de l’aide. C’est la seule chose que puisse faire une jeune fille, et sans doute la plus sensée.
+
+
+
+
+
+
+	Enfin, la grand-mère ne sachant plus quoi concocter à votre père, vous conseille de partir demander des renseignements au mage qui a sa cahute dans la montagne où vous vivez.
+ “Clervie, toi qui aimes chaparder dans les buissons, rends toi utile encore un peu plus. Comme les remèdes classiques n'y font rien, va chez l'espèce de mage, qui habite plus haut dans la montagne. Tu lui expliqueras ce qu'il arrive à ton père, et tu lui demandera s'il peut lui concocter un remède. J'ai confiance en toi.”
+Mais ne parts pas les mains vides. On va voir chez … s'il n'a pas un peu d'équipement pour toi.</Text>
+        </Document>
+        <Document ID="7">
+            <Title>Epilogue</Title>
+            <Text>Il y a deux fins possibles : 1) - celle où vous secourez le roi de votre pays, x, si vous considérer que c’est un pays indépendant, et après cela, celui-ci vous anobli. Vous porterez désormais le nom de votre terre, ou plus précisément de votre montagne, et y régnerez en maîtresse, jusqu’à votre mort. Après celle-ci, la souveraineté en cette région reviendra au roi, mais votre souvenir restera, ainsi que vos armes, qui deviendront les armes officielles du lieu.
+La première fin vous permet de continuer les quêtes, tandis que l’autre, après son épilogue, termine le jeu, puisque vous devez régner sur vos terres.
+	2) -celle où vous aider le chef du pays adverse, le « pays originel », y. Après cela l’unique roi vous fait Chevalière de son ordre de chevaliers le plus haut dans la hiérarchie, « les écuyers du roi ».
+
+
+1) Scénario du premier épilogue, après que vous aidâtes votre roi à conserver son indépendance
+« -Dame Lisa, vous qui avez, des mains perfides de l’envahisseur, arraché ces terres en risquant, à chaque instant, votre vie, et qui de même avez sauvé nombre de nos concitoyens des griffes de leurs anciens frères, touchés par cette terrible malédiction qui ravagea notre peuple, recevez, comme remerciements du roi et de son peuple, le droit de porter officiellement le nom de votre terre, et d’y régner aussi longtemps que vous vivrez.
+-(Et la foule de crier) Dame Clervie, Dame Clervie, Dame Clervie»
+
+Le premier homme de l'armée du roi de x vous en veut terriblement, d'être une femme déjà, et surtout d'avoir acquis tant de mérite pendant cet affrontement, lorsque lui était assez effacé.
+« -Quoi ? Un femme, régner sur des terres ? Et pourquoi pas une chèvre ou une de ces bêtes féroces ? Mes frères, lavons cet affront que nous a fait le roi, en remettant à sa place de femme cette vulgaire ! »
+Le militaire vient dans les terres de l'héroïne anoblie, et arrive jusqu'à elle, se présentant aux différents gardes comme devant lui faire parvenir un message de la plus haute importance. A ce moment là, le jeu alterne entre cinématiques le montrant lui qui évolue de la capitale au château de l'héroïne, et cinématiques montrant l'héroïne discutant avec ses compatriotes lors d'une espèce de réception de retour chez elle.
+[...]
+Le combat débute entre vous et lui. Il excelle dans le maniement de l'épée, ennemi le plus fort du jeu.
+[...]
+- O mon roi, vous, ici ? Laissez votre humble serviteur tout vous expliquer.
+- Silence. Je n’ai nul besoin de tes explications.
+Je vois que vous vous battez encore for bien, capitaine xxx. Vous êtes même sans doute meilleur que dame Clervie pour ce qui est de la lame. Et pourtant, je ne vous ai guère vu à l’œuvre lorsque le royaume vacillait, que nos concitoyens mourraient sous les coups du sort ou de notre ennemi. Et aujourd’hui, lorsque votre soi-disant honneur, frappé de neurasthénie durant la guerre je le rappelle, est piqué à vif, vous vous en prenez à la libératrice de toute une patrie. C’est à vous croire lié à l’ennemi.
+Gardes, saisissez-le. Ce criminel connaîtra les pires supplices avant son exécution.
+Je plaisante bien sûr, tuez-le sur place.
+-Laissez-moi m’en occuper sire, mes muscles n’ont jamais été si tendus.
+- Clervie, vous avez déjà bien trop servi le royaume, reposez vous ; ne sombrez pas dans les noirceurs de la vengeance. »
+
+Clervie se voit offrir des armoiries propres, contenant de l'argent (symbolisant la Lune et la perle, la pureté), sable= diamant, mais aussi tristesse. Gueules= amour de servir sa patrie et le rubis</Text>
+        </Document>
+        <Document ID="8">
+            <Title>Quêtes secondaires</Title>
+        </Document>
+        <Document ID="9">
+            <Title>Les enfants voleurs</Title>
+            <Text>Les enfants voleurs
+Enfants voleurs, dont on ignore le passé, ayant visiblement toujours vécu loin des hommes, qui protègent leur trésor dans leur petite forteresse, un vieux fort abandonné à moitié en ruines. En fin de compte, le trésor se révèle n’être que de quelques vieilles pièces rouillées (- de 100) d’une vieille monnaie qui n’a plus cours.
+
+« - Oh, vous, vous tombez à pic. Des jeunes gens fous se sont installés dans les ruines du vieux fort, là-haut. Qu’ils y vivent ça me dérange pas, moi j’m’en fous. Mais ils me volent mes poules la nuit, et j’vais bientôt plus en avoir aucune tellement ils m’en prennent.
+Pareil pour mon voisin, ils lui ont pris plein de courgettes, il sait plus c’qu’il aura à se mettre sous la dent c’t’hiver le gaillard. Allez lui demander, vous verrez !
+- Êtes-vous bien sûr que ce sont eux qui vous… pillent ?
+- Mais un peu mon neveu. On les a déjà chopés dans nos cours, mais ils étaient armés, y avait rien à faire, j’voulais pas y passer pour trois poules…
+- Mais par contre pas de problème pour que ce soit eux qui y passent pour trois poules ?/ Bon, je vais aller voir si je peux les raisonner, à ma manière./ Je préfère ne pas me mêler des affaires de voisinage. »
+
+Le joueur doit ensuite se rendre jusqu’au vieux fort de Montartre. Les « enfants » sont âgés de 12 à 18 ans et ne sont pas très accueillants. Il faut donc les combattre. Ces enfants protègent une salle bien plus que les autres, et ils se massent autour de celle-ci. Le dernier, le plus fort des ennemis, hurlera « Pas trésor !!!!! » lorsqu'il succombera. 
+Dans cette dernière salle se trouve une espèce de malle à usage de coffre, dans laquelle sont entreposées de vieilles pièces rouillées n’ayant plus cours, et quelques bibelots brillants mais sans valeur. Ces enfants protégeaient plus cher que leur corps ce pauvre dépôt.</Text>
+        </Document>
+        <Document ID="10">
+            <Title>Les violeurs sans morale</Title>
+            <Text>Les violeurs sans morale
+Un villageois vous informe :
+« - Il y a des types bizarres qui se sont installés dans la maison d'un vieille, morte depuis quelques mois. Ils nous inquiètent pas mal, à faire leur tapage jusqu'à pas d'heure, empêchant nos petits de dormir.
+- Je vais voir ça. »
+On décide de s'en occuper, puis on part voir la maison en question. On discute avec celui qui s'apparente à un meneur.
+
+« Elle s'est donnée la mort après avoir vu celle de son chat cette folle. 
+- Elle s'a donné la mort après c't'eux d'son chat, la folle. Les illuminées pareils y a pas à comprendre, c'est con comme une pioche du manche à la pointe.
+- Parce que toi tu crois que ta vie de maraudeur vaut plus que celle de son chat ?
+- Un peu ma petite, c'est bon qu'à se faire brûler ces machins là. Attends, t'essaie d'me dire que j'ai pas raison ?
+- C'est toi…  qu'je vais brûler, pauvre merde.
+- Les bonnes femmes aussi c'est bon qu'à se faire brûler. Ou violer. Aller les gars, venez vous occuper de celle-là avec moi. »
+
+Au début du combat : Oh ça sort les griffes à ce que je vois. C'est encore meilleur quand on l'a mérité</Text>
+        </Document>
+        <Document ID="11"/>
+        <Document ID="12">
+            <Title>Personnages</Title>
+        </Document>
+        <Document ID="13">
+            <Title>reste</Title>
+            <Text>armée adverse
+le roi vous considère comme une pouilleuse sans rang
+
+	Le village de Clervie se situe à mi-hauteur d'une montagne, dont son père est le seul à descendre couramment pour vendre plus bas, au marché d'une grande ville de la vallée, des biens fabriqués par le village, et en acheter d'autres avec l'argent accumulé, qu'il rapporte. Le mage que part voir Clervie se trouve davantage en hauteur, aussi loin du village que le village n'est loin du pied de la montagne. En été, la neige ne recouvre absolument pas le village ; la cabane du mage, cependant, n'est elle jamais épargnée par le froid, pas même en été. L'ascension de Clervie se fait donc de plus en plus fraîche, et les décors se recouvrent peu à peu d'une fine couche neigeuse.
+
+	Le petit frère reprendra le travail de marchand de son père, tandis que Clervie est intéressée par les plantes ? Elle se dirige donc vers une carrière de soigneuse du village. Un petit vieux lui sert de mentor ? Ou alors elle est autodidacte. S'il y a un petit vieux, alors c'est lui qui lui dit quoi cueillir.
+
+
+Discussion avec un mage
+« Un incident de ce type semble avoir déjà touché le xxx il y a de cela 200 ans, de nombreux manuscrits de cette époque relatent des fait similaires.
+-Il y a 200 ans ? Lorsque y s’est scindée en deux ?
+- Peu de temps après en effet.
+Les deux enfants du feu-roi héritèrent chacun d’une portion du territoire, selon les désirs qu’il avait formulés, puis le mal se déclara. Beaucoup de gens ont alors pensé qu’il s’agissait d’un châtiment divin dû à la séparation en deux du pays (livres à lire qui décrivent ces événements)
+- Et comment cela a-t-il pris fin ?
+-Des mages ont mis au point l’antidote permettant de désinfecter du Mal ceux qui le porteraient, en ressentant les premiers symptômes, sans avoir encore muté en horrible créature. Il y a donc eu de moins en moins de cas et le Mal a progressivement disparu. »
+
+
+la plupart des documents écrits ont disparu lors des grands feux de Snarach
+
+« Cette famille s’écharpant a fait verser bien trop de sangs, et trop peu du sien. Lorsque cet étrange mal aura disparu, je ferai tout mon possible pour détrôner ces rois qui se considèrent au dessus de tout » Ce garçon monte une organisation ayant pour but de détrôner la famille du pouvoir. On peut rejoindre ses rangs et participer à des quêtes en rapport aux activités de l’organisation.
+En même temps, un roi, ou un sous-fifre de celui-ci nous a demandé d’enquêter sur une organisation visant à déstabiliser le pays.
+-Toi qui viens de y, pourquoi t’en prendre d’abord à x ?
+-Car...car le roi de y me soutient. Sans l’aide qu’il m’apporte, je n’aurais jamais pu rien faire.
+-Mais alors qu’est-ce qui ne me dit pas que tu fais simplement son jeu ?
+-Il me faut bien commencer quelque part, si je fais tomber le roi de x, je n’aurai plus qu’un ennemi, et une organisation déjà bien en place.
+-
+
+si vous choisissez de rentrer dans les ordres de chevalerie du roi y, le garçon vous fait un sermon, vous disant que vous avez mis vos valeurs de côté (on peut dire qu’on a jamais eu de valeurs, que c’est pas une idée qu’elle défend). Si par contre vous souhaitez aider le roi de x, il accepte de ne pas vous mettre de bâtons dans les roues, et se retire.
+Il ne faut pas oublier que le roi de y est sympa avec vous. Lorsque vous devenez sa chevalière, il vous laisse vaquer à vos aventures, « comme je sais l’âme aventureuse qui fait de vous celle que vous êtes »
+Si vous êtes chevalière, quelques personnes en x vous en voudrons, il y aura même des attaques d’indépendantistes. D’autres seront heureux, et enfin certains ne diront rien, mais ça se verra qu’ils vous regardent d’un mauvais œil, ou de manière apeurée.
+
+« -La majorité des gens sont incapables de décisions importantes ; ils n’ont appris, et ne savent que suivre.
+Toi, tu tenais le monde entre tes mains… et tu n’en a rien fait. Je te croyais différente, digne »
+
+« -Oh je ne veux pas que vous vous salissiez les mains à ma place, aucun de mes citoyens ne devraient accomplir de tels actes de manière non-officielle. » Roi de y qui vous demande de l'aider contre le roi de x, en ajoutant qu'il ne veut pas que vous le tuiez de vos mains.
+
+J’ai dû apprendre à manier l’épée bien malgré moi.
+
+« -Enfant de x, vous êtes nos enfants, et je t’accueille comme j’accueillerais un de mes compatriotes
+-C’est pour cela que la frontière est aussi poreuse. Vous souhaitez qu’un maximum d’habitants de x vienne s’installer ici, ou au moins qu’ils vous tiennent en bonne estime, pour battre plus facilement le roi de x.
+-Tous les moyens sont bons petite. Tu es encore attachée à celui que tu prends pour ton suzerain depuis ta naissance, je comprends que tu sois révoltée à l’idée que tes habitudes changent. Mais il était inéluctable qu’un jour l’ordre, l’unique, l’originel, reconquiert ses terres.
+-
+-Cette scission fut une erreur, dont mon aïeul, dans sa tombe, se mord encore les doigts.
+- Et dites moi, qu’il y ait si peu de cas ici de l’infection qui touche mon pays , est-ce explicable ?
+- Oh je n’ai pas ta réponse, et suis affecté autant que toi de la mort de mes sujets. Mais des savants en ville sauront bien mieux te renseigner que moi à ce propos. »
+
+
+Les terres gastes : le sol est craquelé en grandes plaques, ce qui est dû à une déshydratation des terres, qui ne contiennent plus une once d'eau. S'y trouve pourtant un grand marécage, qui est l'auteur de la rétention de l'eau de la région.
+
+- le conseiller de x vous demande, suite à la fuite des derniers les messagers car ils ont peur d’aller en y, de donner un message au roi de y. D’autres messagers y sont déjà allés, mais dans le doute c’est mieux d’en envoyer encore. En effet, le message ne semble pas être parvenu. Vous apprendrez sur le chemin qu’ils se sont fait tuer, en retrouvant leurs cadavres (ils portent les couleurs du roi).
+Le roi y vous demande de rejoindre ses rangs à un moment, vous pourrez donc tuer le roi de x
+
+- Une fois dans l’autre pays, une révolte éclate dans votre pays. Le roi est en danger et la capitale devient un gigantesque bain de sang. En effet, les citadins ont peur que « Le Mal » les atteigne également, et ils se révoltent contre leur roi qui ne peut pas les protéger, étant donné qu'il s'agit d'une maladie, tandis que c'est son rôle. (ensuite des hordes de voleurs se promènent dans la campagne, attaquant et pillant ceux qui viendraient à faire leur douloureuse rencontre)
+
+- « Comme nos aïeux il y a 200 ans, consolons-nous en écoutant les vers du …, qui pansa si bien leurs plaies qu’il les fit se pardonner d’avoir tué leurs semblables devenus monstres. »
+
+
+« - Si vous retournez là-bas, vous ne pourrez plus revenir en xxx de si tôt, nous fermons la frontière dans le sens de l’entrée. garde-frontière
+- Je vais plutôt rester ici alors. / quelle tristesse… 
+- Si vous l’prenez comme ça.
+  Bon vent ! »
+
+« - Donnez moi une épée alors, que je me protège
+- Une femme avec une épée ? Et puis quoi encore… 
+- Mais je vais périr si vous ne me donnez rien !
+- Bon. Alors il me faut fabriquer un modèle spécial adapté à votre morphologie chétive
+- mais non ça ira donnez moi ce que vous avez, je ne suis pas en sucre. »
+
+« -Mais c’est pas une vie pour une fille !
+Je m’en fiche, j’ai une épée maintenant je suis libre »
+
+Les parents du poète furent infectés puis tués
+
+La rivière de sang acheva de couler.
+Vive et monotone en son cours elle charria
+La chair de nos aïeux, à jamais emportée :
+Ceux qui nous élevèrent devinrent nos parias.
+
+son flot/ aujourd’hui azuré
+
+Regardez donc cette nature, qui vacille mais jamais ne cède aux violentes imprécations de ses dangereux voisins. Autrefois élevés en son sein nous cherchons désormais nos différence, pour pouvoir dire des autres que nous n’en sommes pas.
+
+Clervie part de son village, puisque, connaissant la formule du remède (elle n’est pas la seule, un autre, qui préfère voir les gens mourir), elle souhaite l’offrir au reste du royaume. Il s’agira donc de voyager à la recherche des ingrédients pour concocter des remèdes aux habitants.
+
+“-Merci…
+-Il n’y a pas à me remercier, je respecte simplement ma part du marché
+-Je le sais bien, que c’est votre “part du marché”… Mais je persiste à croire que malgré tout, nous sommes des hommes.”
+
+Exécutions en place public de soupçonnés de Mal
+Exécutions en place public de criminels
+
+“Les hommes meurent, disparaissent. On n’a pas eu le temps de se souvenir de leurs visages qu’ils nous quittent. Et nous ferons de même.
+
+Les haies de fantômes ne nous empêcherons de continuer cette guerre déjà perdue, car c’est tout de qu’ils souhaitent. Que nous renoncions. Mais je n’abandonnerai pas! Les orages, les tempêtes de feuilles, les monts ténébreux, les immenses océans de plénitude, au bout du monde, au delà des barrières invisibles qui nous enchaînent à nos misérables rengaines, rencontreront mes yeux, et, tous, je les aimerai, comme s’ils étaient moi”
+
+“Tiens, rien que d’y penser, j’ai envie de dégobiller”</Text>
+        </Document>
+        <Document ID="14"/>
+        <Document ID="15">
+            <Title>Divers</Title>
+            <Text>- « Bah c’t’à dire qu’une armure de femme, c’est pas tous les jours que j’en fabrique… »
+
+-L’autre pays semble étrangement peu infesté
+
+-Vies détruites
+
+-pierre de lune, pierre de roche(sable=eau)
+
+- mission dans le noir
+
+-on peut bien me traiter de faible, mais je m’en fous
+
+- petites fermes, lieux-dits pas trop loin des vrais bourgs qui sont des fermes et autre (bûcherons)
+
+- Veux-tu être un diamant brute ou une émeraude polie ?
+
+- Violeurs sur les chemins
+
+le ciel était lourd à m’en briser les os. À m’en casser le cou… mais j’étais libre.
+
+“Il n'y a pas grand monde à sauver. La minorité domine, et la majorité se laisse faire, avec l'espoir qu'un bon justicier viendra les sauver, qui, au-delà d'être l'initiative, se prendra tout sur le dos si ça rate.”
+Le type qui veut retourner les deux pouvoirs est un grand utopiste, mais voit le monde de plus en plus noir. Les humains le dégoûtent entre les monstres et les incapables.
+
+Armoiries de l'histoire :
+
+- Armoiries de y : De sinople, couronné de
+- Héraut = celui en charge d'annoncer les armoiries de chacun</Text>
+        </Document>
+        <Document ID="16">
+            <Title>Histoire</Title>
+        </Document>
+        <Document ID="17">
+            <Title>Gameplay et interface de jeu</Title>
+        </Document>
+        <Document ID="18">
+            <Title>Gameplay (intradiégétique)</Title>
+            <Text>- jeu à la troisième personne, vue de haut. Il s’agit d’un action-RPG (type vieux zelda) avec une épée pour combattre
+
+-Ennemis = humains infectés, bêtes sauvages, hommes normaux qui peuvent être des hommes d’une armée (rare), des voleurs, malfrats, violeurs, etc…  
+
+-bruit de foule dans les villes, afin de bien donner un côté animé à ces lieux, et ne pas trop avoir cet effet « petite ville » sur la capitale comme on le ressent dans pokemon par exemple.
+
+-crochetage à la manière d’oblivion pour ouvrir coffres et maisons. Il ne sera donc pas permis d’entrer dans n’importe quelle maison. Kit de crochetage à améliorer peut-être, ce qui rend certains espaces impossibles d'accès au début de l'aventure. « Le mécanisme de cette serrure est trop complexe pour le matériel dont vous disposez ».
+
+-barre de poison : si on se fait attaquer par un infecté, on commence à se faire infecter. Il faut un antidote pour se désinfecter, la barre ne descend pas seule. C’est donc un aspect important de la première partie du jeu, qu'il faut gérer méticuleusement. Si le joueur meurt, le jeu reviendra au moment où sa barre de poison n'était que de moitié. Faire revenir le joueur à l'endroit où il était rendrait la barre inutile, puisque ne pas y faire attention ne serait pas préjudiciable.
+OU artefacts visuels qui apparaissent sur l’écran (vert, taches vertes, tremblements, passage au négatif synchrone avec un bruit de coeur qui bat)
+
+VIE? Ressemblant au poison. Clervie peut se parler à elle-même
+
+-2 objets portables, symbolisés par la main gauche et la main droite. Ainsi il ne sera jamais écrit Ⓐ pour accepter quelque chose par exemple, mais le symbole sera similaire, reprenant la couleur xbox (ici le vert pour le A) avec à l’intérieur du cercle une main (gauche ou droite)
+
+- cadavres d’ennemis imposants encore visible après le combat, et le reste du jeu. La dépouille évolue avec le temps de jeu : par exemple 20 heures de vrai jeu après la mort, il ne reste que le squelette. Cette image ne change pas lorsqu’on est sur son terrain, afin de ne pas voir de ses yeux l’actualisation de la dépouille. Aussi, les dépouilles sont traversables et ne réagissent pas physiquement, afin de ne pas gêner au bon déroulement du jeu, de ne pas bloquer un accès par exemple. Optionnel : un son est joué lorsque l’on marche sur une dépouille : craquements d’os par exemple, bruit de viscères si la décomposition est encore peu avancée.
+
+- le jeu se déroule dans une période reculée. Il ne faut donc pas négliger le grand espace qu’occupe la nature, au contraire des bourgs ramassés sur eux-mêmes et les quelques fermes qui regroupent bien peu de maisons.
+
+-filet pour attraper des papillons, ustensiles de jardinier
+
+-et donc, un « livre des recettes » qui répertorie toutes les recettes de remèdes apprises par Clervie. Il y en a quelques unes dès le début, et s'y ajoutent celles données par le vieux dans le prologue. À chaque fois que quelqu'un vous donne oralement un recette, ou que vous lisez un livret à ce propos, ou que vous expérimentez une recette en combinant plusieurs ingrédients, la recette s'ajoute au livre des recettes. Recette pour la santé, contre Le Mal (comprenant un objet de mages, donc impossible à faire totalement soi-même), pour mieux voir dans le noir (grottes), être plus vif, diurétique (quête), faire plus de dégâts, mieux absorber les coups, être ivre, poison.
+
+-achat de bocaux pour les remèdes : pour mettre de l'eau et des plantes dedans
+
+-pas de leveling 
+
+-combat à la zelda, mais assez rare, puisqu’on incarne pas vraiment une combattante, mais une soigneuse
+
+-elle acquiert donc du meilleur équipement à l’achat, et pas autrement. C’est la seule manière d’améliorer sa puissance de frappe
+
+
+Des personnages non jouables peuvent interagir avec le joueur avec des exclamations ou des remarques propres à leurs caractère/taches/travail
+Les personnages non jouables peuvent avoir un pattern concernant leur occupation/déplacement/travail. Ils ne restent pas “plantés” dans leur village sans bouger.</Text>
+        </Document>
+        <Document ID="19">
+            <Title>Interface de jeu (extradiégétique)</Title>
+            <Text>-ATH évolutif, selon l’utilité présente. Par exemple affichage des pièces d’or lorsqu’elles sont sollicitées, barre de vie lors d’un combat, menu d’échange avec un marchand, afin qu’il n’y ait pas de menus mettant en pause le jeu alors qu’il fait partie du jeu : un menu d’échange avec un marchand fait partie du jeu, lorsque le menu pour changer les graphismes est extérieur à l’aventure.
+	De même, des bulles de dialogues entre des personnages parlant entre eux s’affichent lorsque le joueur passe à proximité. Ces bulles ne possèdent pas de « contour », de « cadre » afin de conserver une certaine lisibilité au jeu. Ainsi, les paroles apparaîtront juste au-dessus de la tête de chaque personnage, reliées à celui-ci par un petit trait ou pas.
+
+- Repenser le système de dialogues, qui, comme il y en aura souvent, ne doit pas être aussi rébarbatif que l’habituelle boite de dialogue. Aussi, il faudra qu’il soit beaucoup plus expressif, de sorte que l’on dépasse les simples points de suspension, arrêts à la virgule ou autres lettres capitales (sans les omettre évidemment)
+	Idée 1: boite de dialogue à la opus magnum
+	Faire en sorte que ce soit non linéaire (par exemple, comme si un personnage pouvait rajouter quelque chose dans sa bulle de dialogue après qu’un autre a parlé.
+	Faire en sorte que ce soit moins “fouilli” lorsque plus de deux personnages parlent.
+	Dans une discussion normale, pas de la quête principale, des bulles dynamiques s’affichent au dessus des personnages. (un peu comme dans les cinématiques d’octopath en fait)
+	Dans une discussion importante, la chose prend tout l’écran, et les dialogues s’affichent comme des messages sur téléphone? Un peu bizarre, peut-être, de voir encore les anciens messages de cette manière. Peut-être que ça pourrait être un frein à l’émotion?
+-Voix faites à la Professeur Layton, à savoir un petit bruit qui se répète tout du long de l’affichage des lettres dans la bulle de dialogue.
+	Petite image du visage de l’interlocuteur lorsqu’il parle à côté de la bulle de dialogue (comme dans nombre de jeux)
+
+
+-jouer avec la forme de l’interface (tête de personnage qui dépasse de sa case dans un dialogue par exemple)
+
+- Le journal de quête, s’il y en a un, prend la forme d’un journal intime, où l’héroïne raconte ce qu’elle a fait durant la quête. (quête où la personne à l’origine de la requête vous demande instamment de ne laisser aucune trace écrite de cette histoire. De ce fait, cette quête n’est pas inscrite dans le journal intime. La consultation du journal intime met l’action en pause).
+Petit affichage en haut à droite indiquant « quête inscrite dans le journal intime, appuyez sur … pour y accéder. »
+
+- sélection des objets avec la croix et le stick droit
+
+- pour utiliser un objet en combat, une potion par exemple, il faut la sélectionner en combat, puisque le jeu n’est pas mis en pause pour ce type d’actions
+
+- à l’affichage d’une interface interne du jeu, comme un menu de marchand par exemple, la caméra suivant le joueur se décale vers la droite, de sorte que le joueur se trouve au milieu de la partie gauche de l'écran, afin de toujours bien le voir, tandis que le menu occupe la surface droite de l’écran.
+
+- Dans les cinématiques, la caméra se centre sur celui qui parle, et se déplace selon le locuteur. Ses paroles sortent sous forme de bulle émanant de lui, ce qui donne un aspect plus direct que la grosse boite de dialogues s'affichant au bas de l'écran.
+Peut-être faudrait-il reprendre ce système pour toutes les interactions avec des PNJ en jeu. Cela permettrait de mieux souligner le fait que le monde est toujours en mouvement, et ne s'arrête pas pour un événement aussi futile qu'est la discussion avec un PNJ.
+
+-équilibre/compromis entre liberté et couloir : quête principale séparée en parties/chapitres dans lesquels on est assez libre, mais le jeu est rythmé par l'ordre des chapitres</Text>
+        </Document>
+        <Document ID="20">
+            <Title>Clervie</Title>
+        </Document>
+        <Document ID="21">
+            <Title>Lieux</Title>
+        </Document>
+        <Document ID="22">
+            <Title>Lieux</Title>
+        </Document>
+        <Document ID="23">
+            <Title>Montartre</Title>
+        </Document>
+        <Document ID="24">
+            <Title>Clervie</Title>
+            <Text>Clervie (perle, joyau)</Text>
+        </Document>
+        <Document ID="25">
+            <Title>Mamie</Title>
+        </Document>
+        <Document ID="26">
+            <Title>Hérédote</Title>
+        </Document>
+        <Document ID="27">
+            <Title>Du prologue</Title>
+        </Document>
+        <Document ID="28">
+            <Title>Village de Clervie</Title>
+        </Document>
+        <Document ID="29">
+            <Title>à faire</Title>
+            <Text>-La colère d’une femme (amoureuse de son mari que vous tuâtes précédemment)
+
+-les cinq héros
+
+- quêtes avec de la langue des oiseaux
+</Text>
+        </Document>
+        <Document ID="30">
+            <Title>Dame Hildegarde</Title>
+        </Document>
+        <Document ID="31">
+            <Title>Ermantrude</Title>
+        </Document>
+        <Document ID="32">
+            <Title>Roi ouest</Title>
+            <Text>… III
+
+</Text>
+        </Document>
+        <Document ID="33">
+            <Title>Roi est</Title>
+            <Text>… V
+
+Homme fier, qui exècre le roi du pays de l’Ouest, dont il qualifie la branche d’“usurpatrice”
+
+-Vous m’aviez dit que vous traitiez mes cosujets comme les vôtres s’il venaient dans cette partie de votre royaume
+-Oui, tout à fait! Mais lui c’est tout différent, même de notre côté de la frontière, il continuait de prêter allégeance à l’usurpateur d’à côté. Nous n’avons donc plus eu comme choix, à notre plus grand regret de
+-Le pendre.
+-Le punir à la hauteur de sa faute</Text>
+        </Document>
+        <Document ID="34">
+            <Title>Chambellan du roi ouest</Title>
+        </Document>
+        <Document ID="35">
+            <Title>chef de la garde royale</Title>
+        </Document>
+        <Document ID="36">
+            <Title>Musique</Title>
+        </Document>
+        <Document ID="37">
+            <Title>Musique</Title>
+            <Text>Musique drôle à la “kaiki theme” pour un ou plusieurs personnages
+Demander à nino pour violoncelle
+Musiques de forêt: post-rock guitare
+Corpus d’instruments récurrents. L’apparition d’autres serait exceptionnelle
+Que faire pour la musique lors d’une attaque ennemie?
+Musique de récompense (type ouverture de coffre) : musique au milieu, harmonisation à la quinte à gauche, harmonisation à l’octave à droite</Text>
+        </Document>
+        <Document ID="38">
+            <Title>Remèdes</Title>
+            <Text>Remèdes :
+
+« huile rouge », contre les brûlures : morceaux de millepertuis (hypericum perforatum) coupés avec des ciseaux. Fragments à mettre dans un bocal, à remplir aux 3 quarts et à conserver. 21 jours au soleil. L'huile devient rouge.
+« Quatre semences chaudes majeures » : coriandre, fenouil, carvi, anis vert (à parts égales) digestions difficiles, faiblesses ou crampes d'estomac.
+« Tisane aux cinq plantes » même chose, pour la digestions
+« Pommade au souci » (talendula officinalis), contre les blessures, brûlures
+« Tisane des quatre-fleurs » qui en contient 7 : toux sèche, grasse, bronchite (tussilage)
+
+
+
+
+Alkékenge (plante)</Text>
+        </Document>
+        <Document ID="39">
+            <Title>Lore</Title>
+            <Text>Après la métamorphose, l’antidote ne servira plus à rien: les organes auront été durablement modifiés, et l’humanité des infectés ne sera plus qu’une lointaine chimère.
+Il faut réunir des ingrédients pour en fabriquer plus.
+Cette maladie aurait déjà eu lieu il y a longtemps, de vieux ouvrages en parlent. Heureusement, ces créatures sont stériles.
+
+Philistins, Ortigiens, Digiciens
+
+Digiric : fondateur de la dynastie des Digiciens, régnant sur y depuis plus de 600 ans. Les rois de x et y en sont des descendants.
+Philistende
+
+- Les écuyers du roi : ces hommes d’armes sont les chevaliers les plus haut gradés dans le royaume y, puisqu’ils sont les seuls sous les ordres directs du roi. Ils portent une couleur particulière (mot pour dire couleur des habits avant) qui est le vert (sinople). On les surnomme d'ailleurs « les verts », ou « les verts du roi ».
+
+Blason/armoiries pour chacun des deux royaumes
+
+Les deux rois ont un rapport différent à leurs vassaux (dirigeants d’un domaine). En effet, celui dans le Royaume de l’ouest les laisse plus libres, tandis qu’à l’Est, il sont bien plus au fait des exigences de leur roi, et la relation de suzeraineté qui les lie à leur roi est bien plus visible. Ils sont davantage des exécutants du roi localement qu’à l’Ouest, où ils dirigent leur terre de manière plus autonome.
+
+Mage : personne qui possède un grand savoir, et est tourné vers l'étude plutôt que vers la pratique
+Magicien : personne qui fait des ses connaissances la source de son activité principale</Text>
+        </Document>
+        <Document ID="40">
+            <Title>pnj</Title>
+            <Text>Un seul modèle 3d à l’origine de tous les autres pour les personnages, qui sera comme une matrice génératrice</Text>
+        </Document>
+        <Document ID="41">
+            <Title>graphismes</Title>
+        </Document>
+        <Document ID="42">
+            <Title>Oh non mais j’en ai marre</Title>
+            <Text>Oh non mais j’en ai marre, c’est de pire en pire. Qui a laissé rentrer cette manante là, c’est pas déjà assez sale comme ça? Qu’est-ce qu’elle veut, à manger? Aux dernières nouvelles 
+
+
+
+
+Virez -moi ça…</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>

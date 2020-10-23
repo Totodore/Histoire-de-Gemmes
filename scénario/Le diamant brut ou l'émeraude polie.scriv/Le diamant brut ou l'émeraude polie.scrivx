@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.12.0" Device="DESKTOP-C1KKSN3" Modified="2020-08-29 20:37:53 +0200" ModID="9AFD2C3B-2352-4251-82E7-CFFE5774439B">
+    <Binder>
+        <BinderItem ID="0" UUID="2A15DE3F-12F3-46F0-BD65-6AE09C14C3BB" Created="2020-08-08 23:22:32 +0200" Modified="2020-08-08 23:22:32 +0200" Type="DraftFolder">
+            <Title>Brouillon</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="3" UUID="D7F1A259-D857-4DF7-ABE2-31E5AFD51441" Created="2020-08-08 23:22:32 +0200" Modified="2020-08-20 01:28:44 +0200" Type="Text">
+                    <Title>Notes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1634,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="EDDFBFEE-A3EB-4FBC-BEB1-E25A1A4EB0F4" Created="2020-08-08 23:22:32 +0200" Modified="2020-08-09 02:31:30 +0200" Type="ResearchFolder">
+            <Title>Recherche</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem ID="2" UUID="8E912591-7FAB-4F04-9E4B-059F5E17113E" Created="2020-08-08 23:22:32 +0200" Modified="2020-08-08 23:22:32 +0200" Type="TrashFolder">
+            <Title>Corbeille</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="11" UUID="038F4196-D113-4909-86E1-CFC0A85290E3" Created="2020-08-09 02:24:22 +0200" Modified="2020-08-09 02:24:22 +0200" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="4" UUID="A6C72246-A230-4281-B9E0-57E66E26528C" Created="2020-08-08 23:23:54 +0200" Modified="2020-08-09 02:05:39 +0200" Type="Folder">
+                    <Title>Personnages</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="14" UUID="D7A9D447-570A-4889-B6BB-67A8FFD69695" Created="2020-08-09 02:26:41 +0200" Modified="2020-08-09 02:26:41 +0200" Type="Folder">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="21" UUID="A8457617-13E2-49F5-817E-F185CBD4B442" Created="2020-08-09 02:34:01 +0200" Modified="2020-08-09 02:34:03 +0200" Type="Text">
+                    <Title>Lieux</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="20" UUID="931836CF-E002-4DCF-A2DA-16644F582507" Created="2020-08-09 02:33:50 +0200" Modified="2020-08-09 02:33:54 +0200" Type="Text">
+                    <Title>Clervie</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="16" UUID="A8BC72B7-7018-4F67-9865-CA76AA07EB29" Created="2020-08-09 02:28:13 +0200" Modified="2020-08-09 02:28:17 +0200" Type="Folder">
+            <Title>Histoire</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="5" UUID="3637A408-267D-40F6-8099-F0C2E0A544C7" Created="2020-08-09 01:55:21 +0200" Modified="2020-08-09 02:05:39 +0200" Type="Folder">
+                    <Title>Quête principale</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="6" UUID="616A1E76-F378-48B0-BEC9-456272AAFC0A" Created="2020-08-09 01:55:32 +0200" Modified="2020-08-29 16:46:04 +0200" Type="Text">
+                            <Title>Prologue</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2778,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="7" UUID="B76952EB-B191-462D-ACB6-F8B3BF8F70BB" Created="2020-08-09 02:11:16 +0200" Modified="2020-08-09 02:23:08 +0200" Type="Text">
+                            <Title>Epilogue</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>203,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="13" UUID="6F0A7514-1BE5-4C79-A699-4BD9E4EEE8FF" Created="2020-08-09 02:25:18 +0200" Modified="2020-08-27 01:14:34 +0200" Type="Text">
+                            <Title>reste</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>8954,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="8" UUID="0F3E1785-D595-4FF7-88B5-B5C063CD2939" Created="2020-08-09 02:16:37 +0200" Modified="2020-08-09 02:16:48 +0200" Type="Folder">
+                    <Title>Quêtes secondaires</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="9" UUID="CD6B4128-2A0C-4013-B66E-0FD001754221" Created="2020-08-09 02:19:20 +0200" Modified="2020-08-09 02:36:14 +0200" Type="Text">
+                            <Title>Les enfants voleurs</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>344,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="10" UUID="B70D7D6F-256D-4A8C-AF4D-343BAA3E7C8B" Created="2020-08-09 02:21:46 +0200" Modified="2020-08-09 02:23:30 +0200" Type="Text">
+                            <Title>Les violeurs sans morale</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>264,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="29" UUID="DFDBB2A6-D30B-4A57-910B-70C0D673F894" Created="2020-08-12 18:11:37 +0200" Modified="2020-08-12 18:12:26 +0200" Type="Text">
+                            <Title>à faire</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>133,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="12" UUID="11F5A91A-961A-4AA4-8D57-FE772C563DE2" Created="2020-08-09 02:24:42 +0200" Modified="2020-08-09 02:24:49 +0200" Type="Folder">
+                    <Title>Personnages</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="24" UUID="A2740588-0387-4FBE-8879-3E745CD5C796" Created="2020-08-09 18:32:58 +0200" Modified="2020-08-12 18:12:43 +0200" Type="Text">
+                            <Title>Clervie</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>22,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="27" UUID="8BAF528B-32B6-4074-BFCD-646E0F5CFA16" Created="2020-08-12 18:10:36 +0200" Modified="2020-08-12 18:10:41 +0200" Type="Folder">
+                            <Title>Du prologue</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="25" UUID="76E68A2B-22E0-4EA6-BAFC-93690C46DC4B" Created="2020-08-11 20:54:00 +0200" Modified="2020-08-11 20:54:03 +0200" Type="Text">
+                                    <Title>Mamie</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="26" UUID="051900F0-41D1-4989-9A44-08DBD52B92CB" Created="2020-08-11 21:14:18 +0200" Modified="2020-08-11 21:14:30 +0200" Type="Text">
+                                    <Title>Hérédote</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="42" UUID="FA469E67-5107-4E34-AB4C-CA75A98DB374" Created="2020-08-29 20:21:06 +0200" Modified="2020-08-29 20:37:52 +0200" Type="Text">
+                                    <Title>Oh non mais j’en ai marre</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>188,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="30" UUID="02422DFD-B3DD-4FFE-B227-ACFA5D014E18" Created="2020-08-12 18:12:54 +0200" Modified="2020-08-27 01:15:02 +0200" Type="Text">
+                            <Title>Dame Hildegarde</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="31" UUID="B53BC59E-210E-42A9-8C06-EA1C2B6782DF" Created="2020-08-12 18:13:03 +0200" Modified="2020-08-12 18:13:06 +0200" Type="Text">
+                            <Title>Ermantrude</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="33" UUID="1B6F00CD-F6B7-40A6-B378-52C66C83C484" Created="2020-08-12 18:17:52 +0200" Modified="2020-08-27 01:15:24 +0200" Type="Text">
+                            <Title>Roi est</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>234,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="32" UUID="F9283196-86C7-4BC1-9624-667BA6507D9B" Created="2020-08-12 18:17:45 +0200" Modified="2020-08-12 18:20:09 +0200" Type="Text">
+                            <Title>Roi ouest</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>7,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="34" UUID="861BB7DB-E63A-4D92-BC0C-D5AFF37D2ECC" Created="2020-08-12 18:18:05 +0200" Modified="2020-08-12 18:18:36 +0200" Type="Text">
+                            <Title>Chambellan du roi ouest</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="35" UUID="B895B23B-AA03-4FBE-8A55-63F9C32252E3" Created="2020-08-12 18:20:15 +0200" Modified="2020-08-12 18:20:29 +0200" Type="Text">
+                            <Title>chef de la garde royale</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="22" UUID="91C1AE4C-9652-4A07-90AB-395D99192CA1" Created="2020-08-09 02:35:22 +0200" Modified="2020-08-09 02:35:26 +0200" Type="Folder">
+                    <Title>Lieux</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="23" UUID="AD267225-1747-410F-AA9B-43ED600A6DE7" Created="2020-08-09 02:36:14 +0200" Modified="2020-08-09 02:36:14 +0200" Type="Text">
+                            <Title>Montartre</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="28" UUID="EB197D42-320A-48DD-B39B-F08D0FF8FF44" Created="2020-08-12 18:11:01 +0200" Modified="2020-08-12 18:11:07 +0200" Type="Text">
+                            <Title>Village de Clervie</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="15" UUID="8F9E500E-BC92-4DE5-A9F1-56BEBD61EB1E" Created="2020-08-09 02:26:53 +0200" Modified="2020-08-12 18:13:28 +0200" Type="Text">
+                    <Title>Divers</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>764,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="39" UUID="FC8896DF-67F2-4606-B7E6-68F284C7E54D" Created="2020-08-20 01:19:44 +0200" Modified="2020-08-20 01:27:51 +0200" Type="Text">
+                    <Title>Lore</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>528,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="17" UUID="8C6F69F6-E0E3-475A-B588-E5E531D2F9FB" Created="2020-08-09 02:29:47 +0200" Modified="2020-08-09 02:29:55 +0200" Type="Folder">
+            <Title>Gameplay et interface de jeu</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="18" UUID="863117EB-3FC3-4104-928A-6801FD8707A0" Created="2020-08-09 02:32:18 +0200" Modified="2020-08-29 17:48:58 +0200" Type="Text">
+                    <Title>Gameplay (intradiégétique)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1701,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="38" UUID="5E855060-37A5-4D59-A72F-BA085D4A457B" Created="2020-08-15 17:36:16 +0200" Modified="2020-08-15 17:36:36 +0200" Type="Text">
+                    <Title>Remèdes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>637,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="19" UUID="E4038444-196C-468F-8268-8AD1B48A6957" Created="2020-08-09 02:32:35 +0200" Modified="2020-08-29 17:54:52 +0200" Type="Text">
+                    <Title>Interface de jeu (extradiégétique)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3444,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="36" UUID="44441FDD-F0DF-44B5-B368-68A0B2A1571F" Created="2020-08-12 21:36:05 +0200" Modified="2020-08-12 21:36:08 +0200" Type="Folder">
+            <Title>Musique</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="37" UUID="8A691DB3-977E-414D-AF39-A76CF70ABC36" Created="2020-08-12 21:36:11 +0200" Modified="2020-08-29 18:05:06 +0200" Type="Text">
+                    <Title>Musique</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>135,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="41" UUID="0BE83E24-7E64-4F05-8F0D-51E682DBA66E" Created="2020-08-29 17:12:17 +0200" Modified="2020-08-29 17:12:20 +0200" Type="Folder">
+            <Title>graphismes</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="40" UUID="F3206EB6-8EB6-4F71-A375-E45F6F4D2E6D" Created="2020-08-29 17:12:06 +0200" Modified="2020-08-29 17:13:55 +0200" Type="Text">
+                    <Title>pnj</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>109,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>Étiquette</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">Sans étiquette</Label>
+            <Label ID="0" Color="0.752941 0.752941 1.000000">Concept</Label>
+            <Label ID="1" Color="1.000000 0.752941 0.752941">Chapitre</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>État</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">Sans état</Status>
+            <Status ID="0">S/O</Status>
+            <Status ID="1">À faire</Status>
+            <Status ID="2">Version préliminaire</Status>
+            <Status ID="3">Brouillon révisé</Status>
+            <Status ID="4">Version finale</Status>
+            <Status ID="5">Terminé</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets>
+        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="89" Characters="522" Date="2020-08-29 16:36:57 +0200"/>
+    </ProjectTargets>
+    <Collections>
+        <Collection Type="Binder" ID="C94FAE54-A330-43F1-ACF8-74FD0C00182D" Color="0.901961 0.917647 0.933333">
+            <Title>Classeur</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="64449721-4312-41DA-8963-A311138F79ED" Color="0.901961 0.901961 0.980392">
+            <Title>Résultats de recherche</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <PrintSettings PaperType="A4" LeftMargin="36.0001" RightMargin="36.0001" TopMargin="36.0001" BottomMargin="36.0001" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>
